@@ -1,0 +1,6 @@
+.direnv
+__pycache__
+dump.rdb
+test_data
+*.log
+*node_modules*
